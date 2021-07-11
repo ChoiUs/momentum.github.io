@@ -1,0 +1,30 @@
+.hidden {
+  display: none;
+}
+body {
+  background-color: cornsilk;
+  font-family: Georgia, serif;
+}
+
+#clock {
+  font-size: 70px;
+  color: darksalmon;
+}
+
+#greeting {
+  color: darkcyan;
+}
+#todo-list {
+  font: 15px;
+  color: darkseagreen;
+  width: 10px;
+}
+#quote {
+  font-style: italic;
+  font-size: 20px;
+  color: palevioletred;
+}
+#weather {
+  color: rosybrown;
+  float: right;
+}
